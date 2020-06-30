@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/metodosnumericosInterpolaciones/static/css/main.b41f65c8.chunk.css",
-    "main.js": "/metodosnumericosInterpolaciones/static/js/main.9984b486.chunk.js",
-    "main.js.map": "/metodosnumericosInterpolaciones/static/js/main.9984b486.chunk.js.map",
-    "runtime-main.js": "/metodosnumericosInterpolaciones/static/js/runtime-main.3cee534c.js",
-    "runtime-main.js.map": "/metodosnumericosInterpolaciones/static/js/runtime-main.3cee534c.js.map",
-    "static/js/2.883103ab.chunk.js": "/metodosnumericosInterpolaciones/static/js/2.883103ab.chunk.js",
-    "static/js/2.883103ab.chunk.js.map": "/metodosnumericosInterpolaciones/static/js/2.883103ab.chunk.js.map",
-    "index.html": "/metodosnumericosInterpolaciones/index.html",
-    "precache-manifest.cb1141134011a6ad8b723ba53be71502.js": "/metodosnumericosInterpolaciones/precache-manifest.cb1141134011a6ad8b723ba53be71502.js",
-    "service-worker.js": "/metodosnumericosInterpolaciones/service-worker.js",
-    "static/css/main.b41f65c8.chunk.css.map": "/metodosnumericosInterpolaciones/static/css/main.b41f65c8.chunk.css.map",
-    "static/js/2.883103ab.chunk.js.LICENSE.txt": "/metodosnumericosInterpolaciones/static/js/2.883103ab.chunk.js.LICENSE.txt"
+    "main.css": "/metodos-numericos/static/css/main.b41f65c8.chunk.css",
+    "main.js": "/metodos-numericos/static/js/main.9984b486.chunk.js",
+    "main.js.map": "/metodos-numericos/static/js/main.9984b486.chunk.js.map",
+    "runtime-main.js": "/metodos-numericos/static/js/runtime-main.e9c9463a.js",
+    "runtime-main.js.map": "/metodos-numericos/static/js/runtime-main.e9c9463a.js.map",
+    "static/js/2.883103ab.chunk.js": "/metodos-numericos/static/js/2.883103ab.chunk.js",
+    "static/js/2.883103ab.chunk.js.map": "/metodos-numericos/static/js/2.883103ab.chunk.js.map",
+    "index.html": "/metodos-numericos/index.html",
+    "precache-manifest.875a97ed209327e9342af326aa587e6e.js": "/metodos-numericos/precache-manifest.875a97ed209327e9342af326aa587e6e.js",
+    "service-worker.js": "/metodos-numericos/service-worker.js",
+    "static/css/main.b41f65c8.chunk.css.map": "/metodos-numericos/static/css/main.b41f65c8.chunk.css.map",
+    "static/js/2.883103ab.chunk.js.LICENSE.txt": "/metodos-numericos/static/js/2.883103ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cee534c.js",
+    "static/js/runtime-main.e9c9463a.js",
     "static/js/2.883103ab.chunk.js",
     "static/css/main.b41f65c8.chunk.css",
     "static/js/main.9984b486.chunk.js"
