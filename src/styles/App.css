@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App main {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+.App main section {
+  width: 50%;
+  height: 100%;
+  display: flex;
+
+  align-items: center;
+}
+
+.App main .container-ecuaciones {
+  background-color: #fff;
+}
+
+.App main .homepage {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.App main .homepage img {
+  width: 25%;
+}
+
+.App main .container-show {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+@media (max-width: 800px) {
+  .App main {
+    height: 140vh;
+    flex-direction: column;
+  }
+  .App main section {
+    width: 100%;
+  }
+
+  .App main .container-ecuaciones {
+    height: 70vh;
+  }
+
+  .App main .container-show {
+    height: 70vh;
+    width: 100%;
+  }
+  .App
+    main
+    .container-show
+    .container-showFormula
+    .container-formulaInterpolacion {
+    flex-direction: column;
+  }
+
+  .App main .homepage {
+    height: 60%;
+  }
+}
