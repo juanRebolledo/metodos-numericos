@@ -7,7 +7,7 @@ import {
   calculateQuadratictInterpolationEquation,
   quadraticInterpolationVariables
 } from "./Utilities/Utilities";
-import FormulaInterpolacionCuadratica from "./Utilities/InterpolacionCuadratica/FormulaInterpolacionCuadratica";
+import FormulaInterpolacionCuadratica from "./Utilities/InterpolacionCuadratica/FormulaIntCuad";
 import ContainerDesarrolloFormula from "./Utilities/ContainerDesarrolloFormula";
 
 export default class InterpolacionCuadratica extends Component {

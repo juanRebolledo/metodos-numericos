@@ -7,7 +7,7 @@ import {
   lagrangeSecondOrderInterpolationVariables,
   calculateLagrangeSecondOrderInterpolationEquation,
 } from "./Utilities/Utilities";
-import FormulaInterpolacionLagrangeSecondOrder from "./Utilities/InterpolacionLagrange/FormulaInterpolacionLagrangeSecondOrder";
+import FormulaInterpolacionLagrangeSecondOrder from "./Utilities/InterpolacionLagrange/FormulaIntSO";
 import ContainerDesarrolloFormula from "./Utilities/ContainerDesarrolloFormula";
 
 export default class InterpolacionLagrangeSOrder extends Component {
