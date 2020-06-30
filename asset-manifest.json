@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/metodos-numericos/static/css/main.b41f65c8.chunk.css",
-    "main.js": "/metodos-numericos/static/js/main.ea4dd563.chunk.js",
-    "main.js.map": "/metodos-numericos/static/js/main.ea4dd563.chunk.js.map",
+    "main.js": "/metodos-numericos/static/js/main.e9372af7.chunk.js",
+    "main.js.map": "/metodos-numericos/static/js/main.e9372af7.chunk.js.map",
     "runtime-main.js": "/metodos-numericos/static/js/runtime-main.e9c9463a.js",
     "runtime-main.js.map": "/metodos-numericos/static/js/runtime-main.e9c9463a.js.map",
     "static/js/2.883103ab.chunk.js": "/metodos-numericos/static/js/2.883103ab.chunk.js",
     "static/js/2.883103ab.chunk.js.map": "/metodos-numericos/static/js/2.883103ab.chunk.js.map",
     "index.html": "/metodos-numericos/index.html",
-    "precache-manifest.ba014afa6c130bcea77672b7734ff884.js": "/metodos-numericos/precache-manifest.ba014afa6c130bcea77672b7734ff884.js",
+    "precache-manifest.7380f4f10babd564014924dbfe897fe5.js": "/metodos-numericos/precache-manifest.7380f4f10babd564014924dbfe897fe5.js",
     "service-worker.js": "/metodos-numericos/service-worker.js",
     "static/css/main.b41f65c8.chunk.css.map": "/metodos-numericos/static/css/main.b41f65c8.chunk.css.map",
     "static/js/2.883103ab.chunk.js.LICENSE.txt": "/metodos-numericos/static/js/2.883103ab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e9c9463a.js",
     "static/js/2.883103ab.chunk.js",
     "static/css/main.b41f65c8.chunk.css",
-    "static/js/main.ea4dd563.chunk.js"
+    "static/js/main.e9372af7.chunk.js"
   ]
 }
