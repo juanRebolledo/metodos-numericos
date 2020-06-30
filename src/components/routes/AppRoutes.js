@@ -1,5 +1,5 @@
 export const appRoutes = {
-    homePageRoute: "/metodosnumericosInterpolaciones",
+    homePageRoute: "/metodos-numericos",
     intLinealPageRoute: "/interpolacion-lineal",
     IntCuadraticRoute: "/interpolacion-cuadratica",
     IntLagrangeFRoute: "/interpolacion-lagrange-first",
